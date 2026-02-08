@@ -1,9 +1,9 @@
-#📊 sql-exploratory-data-analysis-project
+# 📊 sql-exploratory-data-analysis-project
 This project focuses on analyzing sales data using advanced SQL queries to generate business insights and performance reports.
 
 It demonstrates how SQL can be used to calculate KPIs, track trends, and segment customers and products for decision-making purposes.
 
-##🎯 Project Objective
+## 🎯 Project Objective
 
 To simulate the role of a Data Analyst / BI Analyst by transforming structured sales data into meaningful insights such as:
 
@@ -15,8 +15,8 @@ Revenue trends over time
 
 Business KPI reporting
 
-##📈 Analytical Reports Included
-###👥 Customer Report (report_customers)
+## 📈 Analytical Reports Included
+### 👥 Customer Report (report_customers)
 
 A customer-focused analytical view that provides:
 
@@ -34,7 +34,7 @@ Average monthly spend
 
 Customer lifespan
 
-###📦 Product Report (report_products)
+### 📦 Product Report (report_products)
 
 A product performance report that includes:
 
@@ -58,7 +58,7 @@ Product recency
 
 Product lifespan
 
-##🧠 SQL Techniques Demonstrated
+## 🧠 SQL Techniques Demonstrated
 
 Aggregations: SUM(), COUNT(), AVG()
 
@@ -74,7 +74,7 @@ CTEs (Common Table Expressions) for structured query design
 
 Views for reusable reporting layers
 
-##💼 Skills Demonstrated
+## 💼 Skills Demonstrated
 
 Business KPI Development
 
@@ -92,8 +92,8 @@ SQL Server
 
 T-SQL
 
-##🛡️ License
+## 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
-##🌟 About Me
-Hi there! I'm Jameel Hanouneh. I’m a fresh graduated Biomedical Engineering student, sharping my SQL skills and this is my full data warehouse project. and the credits go to Baraa Khatib Salkini, also known as Data With Baraa
+## 🌟 About Me
+Hi there! I'm Jameel Hanouneh. I’m a fresh graduated Biomedical Engineering student, sharping my SQL skills and this is my full data exploratory and analysis project. the credits go to Baraa Khatib Salkini, also known as Data With Baraa
