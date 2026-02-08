@@ -1,4 +1,4 @@
-# sql-exploratory-data-analysis-project
+#📊 sql-exploratory-data-analysis-project
 This project focuses on analyzing sales data using advanced SQL queries to generate business insights and performance reports.
 
 It demonstrates how SQL can be used to calculate KPIs, track trends, and segment customers and products for decision-making purposes.
